@@ -1,4 +1,4 @@
-Desafio Técnico: Desenvolvedor de Software 🚀
+Desafio Técnico: Desenvolvedor de Software 🚀  
 Este é um código simples em PHP que simula um sistema de gestão de produtos e vendas. O sistema é composto por duas classes: Produto e Venda.
 
 Classe Produto
