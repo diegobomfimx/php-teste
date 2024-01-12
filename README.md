@@ -6,7 +6,7 @@ Este é um código simples em PHP que simula um sistema de gestão de produtos e
 
 A classe `Produto` é responsável por representar um produto, armazenando informações como nome, preço e quantidade em estoque. Possui dois métodos principais:
 
-- **setProduto($data):** Recebe um array associativo contendo as informações do produto (nome, preço e quantidade) e cadastra o produto se todas as informações estiverem preenchidas.
+- **setProduto($data):** Recebe um array contendo as informações do produto (nome, preço e quantidade) e cadastra o produto se todas as informações estiverem preenchidas.
 
 - **getProduto():** Exibe no console as informações do produto, como nome, preço e quantidade.
 
@@ -24,6 +24,5 @@ O código inclui alguns testes para demonstrar o funcionamento do sistema. Ele c
 
 ## Execução
 
-Para executar o código, basta incorporá-lo a um ambiente PHP e abrir o arquivo no navegador ou linha de comando. Certifique-se de ter um ambiente PHP configurado para que o código funcione corretamente.
+Para executar o código, basta incorporá-lo a um ambiente PHP e abrir o arquivo no navegador ou linha de comando.
 
-Esse é um exemplo simples de como estruturar um sistema básico de gestão de produtos e vendas em PHP. Sinta-se à vontade para explorar e modificar conforme necessário!
